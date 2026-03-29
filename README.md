@@ -101,4 +101,4 @@ No license specified.
 
 ## Author
 
-Fábio Ceriaço — Technical Support Engineer & AI Automation Specialist
+Fábio Ceriaco — Technical Support Engineer & Automation Specialist
